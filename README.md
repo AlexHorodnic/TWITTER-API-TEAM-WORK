@@ -41,8 +41,11 @@ The API was created by Twitter developers who have allowed us to use it and modi
 Authors (In alphabetical order)
 
 Alexandru Horodnic
+
 Dionysios Karvelas 
+
 Konstantinos Moraitis 
+
 License:
 
 This project includes the Apache 2.0 license. 
